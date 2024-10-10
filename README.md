@@ -3,10 +3,11 @@
 ## Nesse projeto foi abordado alguns temas como:
 
 -Arquitetura do Tailwind e como ela funciona;<br>
--customização e criação do próprio componente;
--Criação do modo dark mode  através de classes utilitárias.
--Foi desenvolvido os  utilitários de botão e foco de input, além de adicionar animações para esses utilitários.
--consumo de um arquivo JSON e mapeando os artigos em componentes React;
+-customização e criação do próprio componente;<br>
+-Criação do modo dark mode  através de classes utilitárias;<br>
+-Foi desenvolvido os  utilitários de botão e foco de input, além de adicionar animações para esses utilitários;<br>
+-consumo de um arquivo JSON e mapeando os artigos em componentes React;<br><br>
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
