@@ -2,7 +2,7 @@
 
 ## Nesse projeto foi abordado alguns temas como:
 
--Arquitetura do Tailwind e como ela funciona;
+-Arquitetura do Tailwind e como ela funciona;<br>
 -customização e criação do próprio componente;
 -Criação do modo dark mode  através de classes utilitárias.
 -Foi desenvolvido os  utilitários de botão e foco de input, além de adicionar animações para esses utilitários.
